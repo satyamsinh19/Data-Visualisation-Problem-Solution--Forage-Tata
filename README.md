@@ -45,7 +45,7 @@ A **video presentation** was recorded to effectively communicate the **findings 
 - Online Retail Report - Tata (Task 3).pbix
 
 📌 **The datasets used in the project**
-- Online Retail.xlsx
+- Online Retail - Tata (Task 3).xlsx
 
 📌 **Documentation**
 - Framing Business Scenarios - Tata (Task 1).txt
