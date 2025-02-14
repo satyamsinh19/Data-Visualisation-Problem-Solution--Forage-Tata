@@ -1,0 +1,11 @@
+Answer to the Quiz Questions 
+
+1. Line Chart
+
+2. Stacked Bar Chart
+
+3. Box Plot
+
+4. Column Chart
+
+5. Map Chart
