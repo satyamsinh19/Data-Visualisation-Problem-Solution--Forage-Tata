@@ -1,4 +1,4 @@
-# Tata Data Visualization – Empowering Business with Effective Insights  
+<h1 align="center"> Tata Data Visualization – Empowering Business with Effective Insights </h1>
 
 ## 📌 Project Overview  
 This project focuses on **business intelligence and data visualization** to empower decision-making in an **online retail business**. The goal is to provide **actionable insights** to the **CEO** and **CMO** through effective data visualizations using the given dataset.  
